@@ -1,0 +1,318 @@
+age	Q5_lieu	Q6_niveau	Q_renonce
+30	Pistes et Bords de pistes	Débrouillée	Mauvaise météo
+41	Pistes	Débrouillée	Mauvaise matériel
+31	Pistes	Débutante	Trop de monde
+17	Pistes	Confirmée	Trop de monde
+23	Pistes	Débrouillée	NA
+40	Pistes	Débrouillée	Mauvaise météo
+45	Pistes	Débrouillée	Mauvaise météo
+44	Pistes et Bords de pistes	Experte	Mauvaise météo
+15	Pistes	Débutante	Ne renonce jamais
+42	Pistes	Débrouillée	NA
+44	Pistes	Débrouillée	Mauvaise météo
+37	Pistes	Débutante	Mauvaise météo
+37	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+21	Pistes	Confirmée	Mauvaise météo
+22	Pistes	Débutante	Trop de monde
+54	Pistes	Confirmée	Trop de monde
+43	Pistes	Débrouillée	Mauvaise météo
+45	Pistes	Confirmée	Mauvaise météo
+20	Pistes	Confirmée	Ne renonce jamais
+41	Pistes	Experte	Trop de monde
+11	Pistes	Confirmée	Mauvaise météo
+37	Pistes	Experte	Mauvaise météo
+58	Pistes	Débrouillée	Mauvaise neige
+41	Pistes	Débutante	Mauvaise météo
+43	Pistes	Débutante	Trop de monde
+18	Pistes et Bords de pistes	Débrouillée	Mauvaise matériel
+41	Pistes	Débrouillée	Mauvaise météo
+41	Pistes	Débrouillée	Ne renonce jamais
+17	Pistes et Bords de pistes	Débrouillée	Mauvaise météo
+60	Pistes	Confirmée	Mauvaise météo
+39	Pistes	Débrouillée	Mauvaise météo
+46	Pistes	Débutante	Mauvaise matériel
+17	Pistes	Débrouillée	Trop de monde
+22	Pistes	Débrouillée	Ne renonce jamais
+18	Pistes	Débrouillée	Mauvaise météo
+42	Pistes	Débrouillée	Mauvaise matériel
+21	Pistes	Débrouillée	Ne renonce jamais
+61	Pistes	Débrouillée	Mauvaise météo
+19	Pistes	Confirmée	Ne renonce jamais
+43	Pistes	Débrouillée	Mauvaise météo
+18	Pistes et Bords de pistes	Confirmée	Ne renonce jamais
+49	Pistes	Débrouillée	Mauvaise neige
+17	Pistes et Bords de pistes	Confirmée	Mauvaise neige
+16	Pistes et Bords de pistes	Débrouillée	Ne renonce jamais
+42	Pistes et Bords de pistes	Experte	Mauvaise neige
+46	Pistes	Débrouillée	Mauvaise neige
+40	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+15	Pistes	Débrouillée	Mauvaise neige
+34	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+40	Pistes	Confirmée	Ne renonce jamais
+47	Pistes	Experte	Mauvaise météo
+37	Pistes	Débrouillée	Mauvaise météo
+40	Pistes et Bords de pistes	Débrouillée	NA
+40	Pistes	Confirmée	Mauvaise météo
+42	Pistes	Débrouillée	Mauvaise météo
+53	Pistes	Experte	Mauvaise météo
+40	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+22	Pistes et Bords de pistes	Confirmée	Mauvaise neige
+51	Pistes et Bords de pistes	Confirmée	Mauvaise neige
+29	Pistes	Débrouillée	Mauvaise météo
+53	Pistes	Débutante	Trop de monde
+14	Pistes	Débrouillée	Ne renonce jamais
+55	Pistes	Débrouillée	Mauvaise météo
+39	Pistes	Débrouillée	Mauvaise météo
+18	Pistes	Débrouillée	Mauvaise météo
+24	Pistes	Débrouillée	Mauvaise météo
+38	Pistes	Débrouillée	Trop de monde
+39	Pistes	Débrouillée	Mauvaise météo
+41	Pistes	Débrouillée	Mauvaise météo
+40	Pistes	Débrouillée	Mauvaise météo
+46	Pistes	Confirmée	Mauvaise météo
+17	Pistes	Confirmée	Mauvaise météo
+47	Pistes	Confirmée	Mauvaise météo
+45	Pistes et Bords de pistes	Experte	Mauvaise neige
+52	Pistes	Confirmée	Mauvaise météo
+55	Pistes	Confirmée	Mauvaise météo
+17	Pistes et Bords de pistes	Confirmée	Ne renonce jamais
+65	Pistes	Débrouillée	Mauvaise météo
+26	Pistes et Bords de pistes	Débrouillée	Mauvaise météo
+43	Pistes	Confirmée	Mauvaise matériel
+48	Pistes	Confirmée	Mauvaise météo
+33	Pistes	Confirmée	Ne renonce jamais
+15	Pistes	Confirmée	Mauvaise météo
+44	Pistes	Confirmée	Mauvaise météo
+36	Pistes et Bords de pistes	Débrouillée	Mauvaise neige
+21	Pistes	Débutante	Mauvaise météo
+43	Pistes	Débrouillée	Mauvaise matériel
+57	Pistes	Confirmée	Mauvaise météo
+37	Pistes	Débrouillée	Mauvaise météo
+29	Pistes	Débutante	Ne renonce jamais
+46	Pistes	Débrouillée	Mauvaise neige
+17	Pistes et Bords de pistes	Confirmée	Trop de monde
+24	Pistes	Débrouillée	Ne renonce jamais
+34	Pistes	Confirmée	Mauvaise météo
+58	Pistes	Débutante	Mauvaise météo
+47	Pistes	Confirmée	Mauvaise météo
+62	Pistes	Débrouillée	Mauvaise météo
+42	Pistes	Débrouillée	Mauvaise météo
+15	Pistes	Débrouillée	Mauvaise météo
+40	Pistes	Débutante	Mauvaise météo
+61	Pistes	Débrouillée	Ne renonce jamais
+14	Pistes	Confirmée	Ne renonce jamais
+30	Pistes	Débutante	Mauvaise météo
+54	Pistes	Confirmée	Mauvaise météo
+51	Pistes	Confirmée	Mauvaise météo
+45	Pistes	Confirmée	Mauvaise météo
+33	Pistes	Débrouillée	Mauvaise météo
+34	Pistes	Débutante	Mauvaise météo
+30	Pistes	Confirmée	Mauvaise météo
+37	Pistes	Confirmée	Mauvaise météo
+33	Pistes	Débrouillée	Mauvaise météo
+53	Pistes	Confirmée	Mauvaise météo
+44	Pistes	Débrouillée	Mauvaise météo
+20	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+75	Pistes	Débrouillée	Ne renonce jamais
+43	Pistes	Débrouillée	Mauvaise météo
+26	Pistes	Débrouillée	Mauvaise matériel
+16	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+62	Pistes	Débrouillée	Ne renonce jamais
+37	Pistes	Confirmée	Mauvaise météo
+59	Pistes	Débrouillée	Mauvaise météo
+46	Pistes	Confirmée	Ne renonce jamais
+33	Pistes	Confirmée	Mauvaise météo
+63	Pistes et Bords de pistes	Experte	Mauvaise météo
+22	Pistes	Débrouillée	Mauvaise météo
+56	Pistes	Débutante	Mauvaise météo
+30	Pistes	Débrouillée	Mauvaise météo
+32	Pistes et Bords de pistes	Débutante	NA
+21	Pistes	Confirmée	Mauvaise neige
+20	Pistes	Débutante	Trop de monde
+13	Pistes	Experte	Mauvaise météo
+43	Pistes	Débrouillée	Ne renonce jamais
+41	Pistes	Débrouillée	Mauvaise météo
+36	Pistes	Confirmée	Ne renonce jamais
+72	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+43	Pistes	Confirmée	Mauvaise météo
+45	Pistes	Débrouillée	Mauvaise météo
+61	Pistes	Confirmée	Mauvaise météo
+19	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+16	Pistes et Bords de pistes	Confirmée	Ne renonce jamais
+20	Pistes	Confirmée	Mauvaise météo
+43	Pistes	Confirmée	Mauvaise météo
+53	Pistes	Débrouillée	Mauvaise météo
+34	Pistes	Confirmée	Mauvaise matériel
+46	Pistes	Débrouillée	Mauvaise neige
+44	Pistes	Confirmée	Ne renonce jamais
+17	Pistes	Débrouillée	Mauvaise matériel
+18	Pistes et Bords de pistes	Débutante	Mauvaise matériel
+40	Pistes	Confirmée	Ne renonce jamais
+17	Pistes	Confirmée	Trop de monde
+57	Pistes	Confirmée	Mauvaise météo
+32	Pistes et Bords de pistes	Débrouillée	Mauvaise météo
+17	Pistes et Bords de pistes	Débrouillée	Mauvaise météo
+23	Pistes et Bords de pistes	Débrouillée	Ne renonce jamais
+40	Pistes	Confirmée	Mauvaise météo
+41	Pistes	Confirmée	Mauvaise météo
+16	Pistes	Débrouillée	Ne renonce jamais
+46	Pistes	Confirmée	Mauvaise météo
+44	Pistes	Confirmée	Mauvaise météo
+33	Pistes	Confirmée	Ne renonce jamais
+24	Pistes et Bords de pistes	Débrouillée	Mauvaise météo
+37	Pistes	Confirmée	Mauvaise neige
+35	Pistes	Débutante	Trop de monde
+42	Pistes	Débrouillée	Mauvaise météo
+49	Pistes	Débrouillée	Mauvaise météo
+14	Pistes	Confirmée	Mauvaise météo
+40	Pistes et Bords de pistes	Experte	Mauvaise météo
+21	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+53	Pistes	Confirmée	Mauvaise météo
+33	Pistes	Débutante	Mauvaise météo
+30	Pistes et Bords de pistes	Confirmée	Ne renonce jamais
+48	Pistes	Débutante	Mauvaise météo
+17	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+18	Pistes	Débrouillée	Mauvaise matériel
+58	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+20	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+51	Pistes	Confirmée	Mauvaise météo
+21	Pistes	Débrouillée	Mauvaise météo
+68	Pistes	Confirmée	Mauvaise météo
+38	Pistes	Confirmée	Mauvaise neige
+45	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+20	Pistes	Confirmée	Mauvaise neige
+41	Pistes	Confirmée	Trop de monde
+38	Pistes	Débrouillée	Mauvaise météo
+48	Pistes et Bords de pistes	Confirmée	Ne renonce jamais
+33	Pistes	Débrouillée	Mauvaise météo
+60	Pistes	Débrouillée	Mauvaise météo
+45	Pistes	Débrouillée	Ne renonce jamais
+24	Pistes	Débrouillée	Ne renonce jamais
+38	Pistes	Débrouillée	Mauvaise météo
+47	Pistes	Débrouillée	Mauvaise neige
+18	Pistes	Débrouillée	Ne renonce jamais
+40	Pistes	Débrouillée	Ne renonce jamais
+43	Pistes	Débrouillée	Mauvaise météo
+61	Pistes	Débrouillée	Trop de monde
+36	Pistes	Experte	Mauvaise météo
+25	Pistes	Débrouillée	Mauvaise météo
+38	Pistes	Experte	Mauvaise météo
+17	Pistes	Débrouillée	Mauvaise neige
+48	Pistes	Confirmée	Mauvaise météo
+20	Pistes	Confirmée	Ne renonce jamais
+31	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+27	Pistes	Débrouillée	Mauvaise météo
+33	Pistes	Débrouillée	Ne renonce jamais
+46	Pistes	Débrouillée	Mauvaise météo
+38	Pistes	Confirmée	Mauvaise météo
+14	Pistes	Débrouillée	Mauvaise météo
+44	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+42	Pistes	Débrouillée	Mauvaise météo
+43	Pistes	Confirmée	Mauvaise météo
+44	Pistes	Débutante	Ne renonce jamais
+44	Pistes	Débrouillée	Mauvaise météo
+46	Pistes	Débrouillée	Mauvaise météo
+39	Pistes	Confirmée	Mauvaise météo
+43	Pistes	Confirmée	Mauvaise météo
+40	Pistes	Débutante	Mauvaise neige
+38	Pistes	Débutante	Trop de monde
+15	Pistes et Bords de pistes	Confirmée	Ne renonce jamais
+38	Pistes	Confirmée	Ne renonce jamais
+44	Pistes	Confirmée	Mauvaise météo
+35	Pistes	Confirmée	Mauvaise météo
+45	Pistes	Confirmée	Mauvaise météo
+53	Pistes	Débrouillée	Mauvaise météo
+45	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+51	Pistes	Débrouillée	Mauvaise météo
+61	Pistes	Confirmée	Mauvaise météo
+31	Pistes	Débrouillée	Mauvaise météo
+19	Pistes	Confirmée	Trop de monde
+49	Pistes	Débrouillée	Mauvaise météo
+47	Pistes	Experte	Mauvaise neige
+22	Pistes	Débutante	Mauvaise matériel
+43	Pistes	Confirmée	Mauvaise météo
+42	Pistes	Confirmée	Mauvaise météo
+45	Pistes	Confirmée	Mauvaise météo
+43	Pistes	Débutante	Mauvaise météo
+26	Pistes	Débutante	Trop de monde
+17	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+40	Pistes et Bords de pistes	Experte	Mauvaise météo
+24	Pistes	Débrouillée	Mauvaise météo
+50	Pistes	Confirmée	Mauvaise météo
+59	Pistes	Confirmée	Mauvaise météo
+27	Pistes	Débrouillée	Trop de monde
+24	Pistes	Confirmée	Mauvaise météo
+31	Pistes	Débrouillée	Mauvaise neige
+37	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+51	Pistes	Débutante	Mauvaise matériel
+22	Pistes	Débrouillée	Mauvaise météo
+44	Pistes	Confirmée	Ne renonce jamais
+30	Pistes	Débrouillée	Ne renonce jamais
+75	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+58	Pistes et Bords de pistes	Débrouillée	Mauvaise météo
+53	Pistes	Débrouillée	Mauvaise météo
+24	Pistes	Débrouillée	Mauvaise neige
+51	Pistes	Débutante	Mauvaise neige
+43	Pistes	Débutante	Trop de monde
+38	Pistes et Bords de pistes	Confirmée	Mauvaise neige
+33	Pistes	Débrouillée	Mauvaise neige
+32	Pistes	Débutante	Mauvaise météo
+28	Pistes	Débutante	Mauvaise météo
+46	Pistes	Débrouillée	Mauvaise matériel
+35	Pistes	Confirmée	Mauvaise météo
+20	Pistes et Bords de pistes	Confirmée	Mauvaise neige
+43	Pistes	Débutante	Mauvaise météo
+25	Pistes et Bords de pistes	Débrouillée	Ne renonce jamais
+47	Pistes	Débrouillée	Mauvaise neige
+23	Pistes	Débutante	Mauvaise météo
+33	Pistes	Débrouillée	Mauvaise neige
+56	Pistes	Débrouillée	Mauvaise matériel
+39	Pistes	Débrouillée	Mauvaise météo
+34	Pistes	Débrouillée	Mauvaise météo
+32	Pistes	Débutante	Mauvaise météo
+57	Pistes	Débrouillée	Trop de monde
+58	Pistes	Débutante	Mauvaise météo
+48	Pistes	Débrouillée	Ne renonce jamais
+54	Pistes	Confirmée	Ne renonce jamais
+34	Pistes	Débutante	Mauvaise météo
+37	Pistes	Débrouillée	Mauvaise neige
+35	Pistes	Débrouillée	Mauvaise météo
+39	Pistes	Confirmée	Ne renonce jamais
+48	Pistes	Débrouillée	Mauvaise météo
+27	Pistes et Bords de pistes	Confirmée	Trop de monde
+24	Pistes	Confirmée	Ne renonce jamais
+66	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+53	Pistes	Débrouillée	Trop de monde
+43	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+38	Pistes et Bords de pistes	Confirmée	Ne renonce jamais
+60	Pistes	Débrouillée	Mauvaise météo
+32	Pistes	Débrouillée	Mauvaise météo
+52	Pistes	Débrouillée	Mauvaise météo
+28	Pistes et Bords de pistes	Débrouillée	Ne renonce jamais
+22	Pistes	Débrouillée	Mauvaise météo
+31	Pistes	Débutante	Mauvaise neige
+25	Pistes	Débutante	Ne renonce jamais
+37	Pistes	Débrouillée	Mauvaise météo
+29	Pistes	Confirmée	Mauvaise neige
+24	Pistes et Bords de pistes	Confirmée	Ne renonce jamais
+37	Pistes	Experte	Ne renonce jamais
+28	Pistes et Bords de pistes	Experte	Trop de monde
+62	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+53	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+63	Pistes	Débrouillée	Mauvaise météo
+47	Pistes	Débrouillée	Ne renonce jamais
+55	Pistes	Débrouillée	Mauvaise météo
+27	Pistes	Débrouillée	Ne renonce jamais
+28	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+28	Pistes et Bords de pistes	Confirmée	Mauvaise météo
+25	Pistes	Confirmée	Mauvaise météo
+31	Pistes	Confirmée	Mauvaise météo
+30	Pistes et Bords de pistes	Confirmée	Mauvaise neige
+62	Pistes	Confirmée	Mauvaise météo
+26	Pistes	Débrouillée	Mauvaise météo
+26	Pistes	Débrouillée	Mauvaise météo
+73	Pistes	Confirmée	Mauvaise météo
+39	Pistes	Débutante	Mauvaise neige
+49	Pistes	Débutante	Mauvaise neige
+49	Pistes	Débutante	Mauvaise météo
+31	Pistes	Débrouillée	Mauvaise météo
