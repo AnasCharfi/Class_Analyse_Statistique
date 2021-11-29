@@ -20,6 +20,7 @@ effect_poste
 freq = prop.table(effect_poste)      #same shit
 freq = effect_poste/nrow(df)         #same shit
 freq = effect_poste/length(df$POSTE) #same shit
+freq
 
 #6. Déterminer une représentation graphique des fréquences relatives de la variable
 #POSTE en utilisant un diagramme circulaire et interpréter le résultat obtenu.

@@ -1,3 +1,5 @@
+#Partie A
+
 library(questionr)
 data("rp2012")
 db=rp2012
@@ -21,3 +23,35 @@ cor(db$cadres,db$proprio, method="spearman") #aussi faible donc absence total de
 
 #8.
 cor.test(db$cadres,db$dipl_sup) #
+
+#Partie B
+
+library(questionr)
+
+data("hdv2003")
+db = hdv2003
+
+#le tableau de contigence (croisé) des deux variables
+cont = table(db$qualif,db$sexe)
+
+#Diagramme en mosaique
+mosaicplot(cont)
+
+
+#Partie C
+
+#1. 
+sportif = db[which(db$sport=="Oui"),]
+sportif
+non_sportif = db[which(db$sport=="Non"),]
+mean(sportif$age) #40
+mean(non_sportif$age) #52
+
+boxplot(db$age~db$sport)
+par(mfrow=c(1,2))
+hist(sportif$age)
+hist(non_sportif$age)
+
+shapiro.test(db$age)
+
+wilcox.test(db$age~db$sport)

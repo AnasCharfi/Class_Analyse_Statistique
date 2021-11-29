@@ -9,7 +9,7 @@ Sales = c(343.00,280.00,332.00,272.00,NA,326.00,259.00,297.00)
 
 df = data.frame(gender,Manpower,Sales)
 
-#na.rm pour avoir le mean != NA puisqu'on si on a une valeur NA le résultat de mean est NA
+#na.rm pour avoir le mean != NA puisqu'on si on a une valeur NA le resultat de mean est NA
 
 mean(df$Manpower,na.rm=TRUE)
 
@@ -45,19 +45,19 @@ summary(gazella)
 #message d'erreur= il y a des valeurs na 
 na.fail(gazella)
 
-#4 calcul taux des données manquantes
-sum(is.na(gazella))/prod(dim(gazella)) ## (0.13 > 5%) il faut supprimer ses données
+#4 calcul taux des donnees manquantes
+sum(is.na(gazella))/prod(dim(gazella)) ## (0.13 > 5%) il faut supprimer ses donnees
 
 library(Hmisc)
 
-#imputation des données
+#imputation des donnees
 summary(gazella$NOX)
 dat.moy = impute(gazella$NOX,fun=mean)
 dat.moy
 
 #question 11.2 et 12 na9sin
 #barra lawaj 3lech 'mati5dimch'
-#datt = knn(gazella)
+datt = knn(gazella)
 
 
 #Application5

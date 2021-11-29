@@ -1,4 +1,4 @@
-db = read.table(file=file.choose(),header=TRUE,sep=",",na.strings = "")
+;db = read.table(file=file.choose(),header=TRUE,sep=",",na.strings = "")
 head(db)
 db[2,]
 db[,2]
